@@ -1,3 +1,3 @@
 # Chat-App
 
-- Build Using Socket-IO
+- A basic app using Socket-IO
